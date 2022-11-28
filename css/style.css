@@ -1,4 +1,23 @@
+header{
+    background-image: url(../img/pattern.png);
+    height: 130px;
+    background-color: rgb(93, 93, 232);
+}
+
 #booleaner{
-    background-image:url(pattern.png);
-    
+    width: 250px;
+    padding:50px;
+
+}
+
+.credit{
+    color: rgb(176, 169, 169);
+}
+
+.credit2{
+    color: rgb(0, 116, 249);
+}
+
+.illustrazioni-foto{
+    font-style: italic;
 }
