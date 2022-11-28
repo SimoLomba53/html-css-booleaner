@@ -6,34 +6,46 @@ header{
 
 #testo-principale{
     font-size:60px;
+    position:relative;
+    bottom:30px;
 }
 
 
 #booleaner{
     width: 250px;
-    padding:50px;
+    position:relative;
+    top:60px;
 
 }
 
 .credit{
     color: rgb(176, 169, 169);
+    position:relative;
+    bottom:70px;
 }
 
 .credit2{
     color: rgb(0, 116, 249);
+    position:relative;
+    bottom:70px;
 }
 
 #tim1{
     width: 750px;
+    position:relative;
+    bottom:30px;
 }
 
 #tim2{
     width: 640px;
+    position:relative;
+    bottom:30px;
 }
-
 
 .illustrazioni-foto{
     font-style: italic;
+    position: relative;
+    bottom: 30px;
 }
 
 #table-riga1{
@@ -85,4 +97,8 @@ header{
     position:relative;
     top:50px;
     font-style:bold;
+}
+
+.evidenziatore{
+    background-color: yellow;
 }
